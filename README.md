@@ -1,1 +1,1 @@
-# Diversity-In-Neisseria-Gonorrhoeae-during-Lockdown
+# Diversity In Neisseria Gonorrhoeae during Lockdown (DINGL)
