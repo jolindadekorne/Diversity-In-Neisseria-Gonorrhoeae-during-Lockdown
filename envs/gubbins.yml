@@ -1,0 +1,11 @@
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - gubbins=2.4.1
+  - python=3.7.4
+  - ete3=3.1.2
+  - biopython=1.78
+  - bcbiogff=0.6.6
+  - svgwrite=1.4.1
+
